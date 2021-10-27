@@ -12,8 +12,8 @@ Fluxo utilizado: https://www.figma.com/file/NfBx7Bf3GAPx8KZA3bcIfQ/Take-Teste---
 
 ESTRUTURA 
 
-`challenge
+challenge
 ├── Api
 ├── Flow
-│ └── mybotflow.json`
+│ └── mybotflow.json
 
